@@ -1,0 +1,55 @@
+--------------------------------------------------------------
+Cyber Attack on Change Healthcare (21 February 2024)
+-------------------------------------------------------------
+1.) Executive Summary
+--------------------------------------------
+Change Healthcare, a major health tech firm and part of Optum, recently experienced a cyber-attack. This led to some of its systems being disrupted and caused delays in prescriptions being issued to patients. The company took immediate action to disconnect its systems to prevent further impact once it became aware of the outside threat. Change Healthcare is one of the largest health care technology companies in the United States. It handles 15 billion healthcare transactions annually. The full extent of the impact is still being assessed.
+
+2.) Attack Details
+--------------------------------------------
+The company is still working to fully resolve the issue while the full extent of the impact is still being assessed. Although the organization has not yet disclosed the specifics of the attack, here are some updates gathered from their Incident Management tracker accessible on their website:
+
+1. February 21, 2024: Change Healthcare, one of the largest health care technology companies in the United States, was hit with a cyber-attack that began disrupting several of its systems and services.
+2. February 22, 2024, 11:32 a.m. ET: Change Healthcare posted a statement on its website acknowledging the cybersecurity issue. The company took immediate action to disconnect its systems to prevent further impact.
+3. February 22, 2024, 12:00 a.m.: An update stated that its systems were back up and running.
+4. February 22, 2024, 3:14 p.m.: The cyber-attack led to delays in prescriptions being issued to patients.
+5. February 22, 2024, 10:27 p.m.: The company currently believes the issue is isolated to Change Healthcare, and all other systems across UnitedHealth Group are operational.
+
+It should be noted that Change Healthcare was also targeted in an attack back in September 2020. According to their public statement, it was detected by the company's security team on October 1, 2020.
+
+The investigation revealed that an unknown actor gained access to Change Healthcare's systems through a third-party vendor's credentials, which were used to access sensitive data stored on the company's servers. The compromised data included personal information such as names, addresses, dates of birth, Social Security numbers, and driver's license numbers for certain patients and employees.
+
+Additionally, some medical records and lab results were also accessed. However, Change Healthcare stated that there was no evidence of any attempted fraudulent activity or misuse of the accessed data.
+
+In response to the incident, Change Healthcare took several steps to contain and remediate the situation, including:
+
+1.	Launching an internal investigation and working with external experts to determine the scope and severity of the incident.
+2.	Notifying affected individuals and providing them with free credit monitoring and identity protection services.
+3.	Enhancing security protocols and procedures to prevent similar incidents in the future.
+4.	Working with law enforcement agencies to apprehend the perpetrator(s) and bring them to justice.
+
+3.) Potential Impact:
+------------------------------------------------------------
+The disruption caused by the attack has affected more than just Change Healthcare. Local pharmacies have also experienced outages because of the attack. The incident underscores the importance of robust cyber security measures for all organizations, especially those handling sensitive health information.
+
+A cyber-attack like the one experienced by Change Healthcare could have several potential impacts:
+
+1. Service Disruption: The most immediate impact would be a disruption of services. This could range from delays in processing prescriptions, as seen in the Change Healthcare incident, to more severe disruptions depending on the nature of your organization’s services.
+2. Financial Impact: There could be a significant financial impact due to the cost of responding to the attack, potential loss of revenue during the disruption, and possible fines or lawsuits if sensitive data is compromised.
+3. Reputation Damage: A cyber-attack can damage an organization’s reputation, leading to a loss of trust among patients and partners. This could have long-term impacts on the organization’s market position.
+4. Data Breach: If the cyber-attack results in a data breach, the personal and medical information of patients could be at risk. This could lead to identity theft and other forms of fraud.
+5. Regulatory Compliance Issues: Healthcare organizations are subject to various regulations regarding the protection of patient information. A cyber-attack could result in non-compliance, leading to potential fines and penalties.
+6. Operational Impact: Depending on the severity of the attack, there could be a significant impact on the organization’s operations. This could range from the need to divert resources to deal with the attack, to a complete shutdown of certain operations.
+
+4.) Indicator of Compromise
+-----------------------------------------------------------------
+As of now, there are no specific Indicators of Compromise (IOCs) reported for the cyber-attack on Change Healthcare.
+
+5.) Additional Analysis and Details
+-------------------------------------------------------------------
+Examine and prevent access to the IOCs associated with prominent and highly active APT groups, including ‘APT28’, ‘UNC931’, ‘GOBRAT’ Rhysida/ALPHV/Blackcat/Qilin/Lockbit ransomware. These threat groups have been focusing their efforts on industries such as healthcare, technology, and telecommunications. Also give a second thought to this cyber-attack with very specific threat actors such as ‘Anonymous’ Sudan who have been very active in targeting the organizations with DDOS attacks. 
+
+1. In terms of tools, Anonymous Sudan has been known to use DDoS attack tools. 
+2. They have also collaborated with the ‘Godzilla Botnet’ threat actor group.
+3. Some of their attacks have been tracked using Indicators of Compromise (IOCs) associated with the IP addresses they use.
+4. The group has been associated with other attack groups like ‘Killnet’ and has been involved in attacks on various targets, including universities, hospitals, airports, and critical banking infrastructure.
