@@ -1,0 +1,22 @@
+🇰🇵 North Korea targets Defense Sector via Supply Chain
+
+Lazarus infiltrated a Website Maintance and Repair Supplier of a Maritime Research organization to drop #NukeSped via patch management systems (PMS) to steal trade secrets. After infiltrating the supplier, they accessed the targets web server via stolen SSH keys.
+
+Once on the webserver, Lazarus uses curl to retrieve tools from the C2 server: ngrok and a base-64 encoded Python downloader script.
+
+Lazarus used SSH to move laterally throughout the network using TCP Dump to collect network data and stole account credentials from employees.
+
+Lazarus accessed the Security Managers mailbox using stolen account credentials to understand the PMS procedure and request a new patch for deployment via the PMS Service Provider.
+
+The patch masqueraded as a legitimate file and had functions to upload and download files, execute code, and to collect system information.
+
+The file was called: “EncryptModule_Patch.exe” and is the #NukeSped RAT used by Lazarus.
+
+The Security Manager identified the malicious activity and stopped the deployment of NukeSped malware.
+
+⛔ Key Findings
+---------------------
+Legacy remote working due to COVID lead to lacking security controls, allowing unattended access to servers.
+
+Lazarus persisted via alternative methods e.g. webshells and took advantage of a trusted relationship between target and supplier.
+
