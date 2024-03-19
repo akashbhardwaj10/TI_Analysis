@@ -1,0 +1,10 @@
+*** Chinese APT ‘Earth Krahang’ Hacking Campaign ***
+
+> Since early 2022, an APT campaign has been targeting several government entities worldwide, with a strong focus in Southeast Asia, but also seen targeting Europe, America, and Africa.
+> The campaign is attributed to a China-nexus threat actor known as Earth Lusca, but due to the campaign's independent infrastructure and unique backdoors, it is believed to be a separate intrusion set named Earth Krahang.
+> Earth Krahang exploits public-facing servers and sends spear-phishing emails to deliver previously unseen backdoors. The group has breached 70 organizations across 23 countries
+> The threat actor uses its malicious access to government infrastructure to attack other government entities, abusing the infrastructure to host malicious payloads, proxy attack traffic, and send spear-phishing emails to government-related targets using compromised government email accounts.
+> Earth Krahang also uses other tactics, such as building VPN servers on compromised public-facing servers to establish access into the private network of victims and performing brute-force attacks to obtain email credentials.
+> Earth Krahang delivers backdoors to establish access to victim machines. Cobalt Strike and two custom backdoors, RESHELL and XDealer, were employed during the initial stage of attack.
+> Earth Krahang adds additional protection to their C&C server through the adoption of the open-source project RedGuard, which is basically a proxy that helps red teams hinder the discovery of their Cobalt Strike C&C profile.
+
