@@ -1,0 +1,11 @@
+*** Fujitsu Data Breach *** 
+
+> On March 18, Fujitsu, a Japanese tech giant and the world's sixth largest IT services provider, discovered malware on several of its systems and confirmed a data breach.
+> Fujitsu operates in over 100 countries and has a multifaceted relationship with the Japanese government. Fujitsu operates in over 100 countries and has a multifaceted relationship with the Japanese government.
+> The compromised data includes sensitive customer information. So far, there is no evidence of any affected customer data being misused
+> Fujitsu is investigating the malware's entry point into its business systems and what data was exfiltrated.
+> Fujitsu confirmed the presence of malware on several of its company’s work computers. As part of an internal investigation, it was revealed that files containing personal information and customer data could potentially be illegally accessed. 
+> The exact number of records exposed or the number of affected individuals has not been specified.
+> Fujitsu has disconnected the affected computers and strengthened monitoring of other business computers. The company has also reported the incident to Japan’s data protection authority
+> In May 2021, Fujitsu's ProjectWEB information sharing tool was exploited, leading to unauthorized access and theft of 76,000 email addresses and proprietary data, including sensitive information from government systems and potentially air traffic control data 
+> The investigation into the 2021 hack revealed several vulnerabilities in ProjectWEB, which was discontinued and replaced with a new tool incorporating zero-trust security measures.
